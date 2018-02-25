@@ -1,1 +1,18 @@
-/build
+# Global Folders
+build/
+
+# Local Folders
+/.idea/*
+/.gradle/
+/captures/
+/libraries/*/
+
+# Global Files
+.DS_Store
+
+# Global Extensions
+*.iml
+
+# Exceptions
+!/.idea/codeStyleSettings.xml
+
