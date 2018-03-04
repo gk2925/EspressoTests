@@ -1,6 +1,5 @@
 # Global Folders
-build/
-
+/build/*
 # Local Folders
 /.idea/*
 /.gradle/
