@@ -31,7 +31,6 @@ public class LandingPage extends AbstractPage {
     }
 
     public LandingPage enterTextSearch(String searchText) {
-        SystemClock.sleep(2000);
         searchTextView.performActions(typeText(searchText));
 
         return this;
